@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-b7019bbafb05533956dc.js","mappings":"8JAEe,SAASA,IACtB,MAAO,gBACR,C","sources":["webpack://numaproj/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Component () {\n  return \"Hello Numaproj\"\n}\n"],"names":["Component"],"sourceRoot":""}
